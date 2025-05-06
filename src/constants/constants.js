@@ -3,7 +3,7 @@ export const projects = [
     title: "Facebook Clone",
     description:
       "Using React, Express & Firebase. It is a simple social media app that allows users to post interesting events that happened in their lives.",
-    image: "/images/1.png",
+    image: "./images/1.png",
     tags: ["Firebase", "React"],
     source: "https://google.com",
     visit: "https://google.com",
