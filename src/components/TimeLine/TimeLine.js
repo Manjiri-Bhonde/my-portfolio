@@ -113,7 +113,7 @@ const Timeline = () => {
         ))}
       </CarouselButtons> */}
       <VerticalTimeline>
-        {TimeLineData.map((element) => (
+        {TimeLineData.sort((a,b)=>b.id-a.id).map((element) => (
           <VerticalTimelineElement
             key={element.id}
             date={element.date}
