@@ -38,11 +38,11 @@ export const TimeLineData =
       title: "Software Engineer",
       date: "June 2023 - present",
       text: [
-        "Develop frontend using React.js",
-        "Build reusable components and front-end libraries for future use",
+        "Developed and optimized intuitive web applications with React.js,resulting in enhanced user interaction",
+        "Build reusable UI components with Material UI and Tailwind CSS",
         " Translate designs and wireframes into high-quality code",
-        "Optimize components for maximum performance across a vast array of web-capable devices and browsers",
-        "Ensure the technical feasibility of UI/UX designs",
+        "Improved performance with React Hooks and Redux, utilizing useMemo, and useCallback ",
+        "Crafted ag-Grid data tables to manage over a million records,facilitating increased productivity",
       ],
       work: true,
       location: "Pune",
@@ -52,14 +52,12 @@ export const TimeLineData =
       title: "Software Engineer",
       date: "June 2023 - present",
       text: [
-        "Develop frontend using React.js",
-        "Build reusable components and front-end libraries for future use",
-        " Translate designs and wireframes into high-quality code",
-        "Optimize components for maximum performance across a vast array of web-capable devices and browsers",
+        "Implemented GraphQL APIs through Apollo Client, reducing data fetching and network overhead",
+        "Crafted interactive dashboards with Highcharts, boosting data insights",
+        " Successfully migrated legacy frontend code to modern React architecture, improving maintainability",
         "Ensure the technical feasibility of UI/UX designs",
       ],
       work: true,
       location: "Pune",
     },
-    
   ];
