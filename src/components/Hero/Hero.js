@@ -12,7 +12,7 @@ const Hero = (props) => (
   <Section row='true' nopadding='true'>
     <LeftSection>
       <SectionTitle main='true' center='true'>
-        Hi, I'm<br />
+        Hi, I&apos;m<br />
        Manjiri
       </SectionTitle>
       <SectionText>
