@@ -47,5 +47,19 @@ export const TimeLineData =
       work: true,
       location: "Pune",
     },
+    {
+      id: 3,
+      title: "Software Engineer",
+      date: "June 2023 - present",
+      text: [
+        "Develop frontend using React.js",
+        "Build reusable components and front-end libraries for future use",
+        " Translate designs and wireframes into high-quality code",
+        "Optimize components for maximum performance across a vast array of web-capable devices and browsers",
+        "Ensure the technical feasibility of UI/UX designs",
+      ],
+      work: true,
+      location: "Pune",
+    },
     
   ];
