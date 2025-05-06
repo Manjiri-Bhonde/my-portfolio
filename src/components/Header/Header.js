@@ -49,10 +49,10 @@ const Header = () => (
       </div>
     </Div2>
     <Div3>
-      <SocialIcons href="https://github.com">
+      <SocialIcons href="https://github.com/Manjiri-Bhonde">
         <AiFillGithub size="3rem" />
       </SocialIcons>
-      <SocialIcons href="https://linkedIn.com">
+      <SocialIcons href="https://www.linkedin.com/in/manjiri-bhonde/">
         <AiFillLinkedin size="3rem" />
       </SocialIcons>
       {/* <SocialIcons href="https://github.com">
